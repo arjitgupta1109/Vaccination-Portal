@@ -1,0 +1,10 @@
+.footer {
+ background: rgba(30, 30, 30, 0.85); /* Light transparent dark theme */
+ color: white;
+ text-align: center;
+ padding: 6px;
+ font-size: 14px;
+ width: 100%;
+ position: relative;
+ bottom: 0;
+}
