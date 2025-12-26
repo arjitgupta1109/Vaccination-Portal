@@ -4,7 +4,7 @@ Vaccination Portal is a full-stack web application built to streamline the vacci
 
 ---
 
-## 🚀 Features
+##🚀 Features
 
 ### 👤 User Authentication
 - Login and Signup using mobile number and password
